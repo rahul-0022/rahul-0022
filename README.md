@@ -1,6 +1,6 @@
 ### Rahul Singh Savner
 
-<hr>
+<hr style="color: black;">
 
 Hey! I am a sophomore at the Institute of Engineering and Technology, DAVV.
 
